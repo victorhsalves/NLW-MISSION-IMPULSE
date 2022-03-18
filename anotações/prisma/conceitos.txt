@@ -1,0 +1,5 @@
+Migration: uma espécie de histórico do que é feito no banco de dados, quando eu crio ou altero uma tabela eu preciso criar
+a migration para que seja replicado para o banco.
+        *** Vantagens: ao passar o código para outra pessoa, basta rodar a migration para que ela tenha umac
+        cópia do meu banco.
+
